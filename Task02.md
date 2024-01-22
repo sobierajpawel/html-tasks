@@ -13,6 +13,7 @@ Stwórz stronę HTML zawierającą tabelę z danymi.
 2. **Tworzenie Tabeli:**
    - Użyj tagów `<table>`, `<tr>`, `<th>`, i `<td>` do stworzenia tabeli.
    - Tabela powinna zawierać przynajmniej 3 kolumny i 4 wiersze.
+   - Wykorzystaj grupowanie `rowspan` `colspan`
 
 
 ### Przykładowe Dane
